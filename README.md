@@ -1,1 +1,3 @@
 # CodeSamplesJT
+Code Samples from quotemule
+My Nation.....
