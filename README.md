@@ -1,3 +1,6 @@
 # CodeSamplesJT
 Code Samples from quotemule
+
 My Nation.....
+
+Hello from my local computer....
